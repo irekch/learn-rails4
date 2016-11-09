@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 # Specific version of Ruby and Rails for the application
-# ruby '2.3.0'
+ruby '2.3.0'
 gem 'rails', '4.2.5'
 
 # Rails defaults
